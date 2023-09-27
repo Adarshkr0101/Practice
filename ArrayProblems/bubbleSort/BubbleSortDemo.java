@@ -1,4 +1,4 @@
-package com.knbubbleSort;
+package com.kn.bubbleSort;
 
 import java.util.Scanner;
 

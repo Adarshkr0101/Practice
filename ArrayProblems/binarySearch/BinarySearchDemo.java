@@ -21,9 +21,9 @@ public class BinarySearchDemo {
 		int ele = sc.nextInt();
 		//sort the array for binary search
 		Arrays.sort(arr);
-		// create an object of class LinearSearch
+		// create an object of class BinarySearch
 		BinarySearch ls = new BinarySearch();
-		// call the method of class LinearSearch
+		// call the method of class BinarySearch
 		int result = ls.binarysearch(arr, ele);
 		// print the search element found or not
 		if (result >= 0) {

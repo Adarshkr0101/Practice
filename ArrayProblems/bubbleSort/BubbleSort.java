@@ -1,4 +1,4 @@
-package com.knbubbleSort;
+package com.kn.bubbleSort;
 
 public class BubbleSort {
 	// Create a method to bubble sort
